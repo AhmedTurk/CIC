@@ -53,7 +53,7 @@ angular.module('mm.core.login', [])
     templateUrl: 'core/components/login/templates/site.html',
     controller: 'mmLoginSiteCtrl',
     onEnter: function($state) {
-        $state.go('mm_login.credentials', {siteurl: 'http://portal.cicce.ca/'});
+        $state.go('mm_login.credentials', {siteurl: 'http://127.0.0.1/test/'});
     }
 })
     .state('mm_login.credentials', {
