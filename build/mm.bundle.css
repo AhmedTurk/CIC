@@ -8350,6 +8350,8 @@ a.button {
 .mm-bglogo {
   background-color: #332D27;
   /* Change this to add a bg image or change color */
+  background-color:#332D27; 
+  background-image:url('../img/pattern.png');
   background-repeat: no-repeat;
   background-position: center center;
   width: 100%;
@@ -8358,7 +8360,6 @@ a.button {
   bottom: 0; }
 
 .mm-logo {
-  background-image: url('../img/moodle.png');
   /* Change logo here */
   background-repeat: no-repeat;
   background-position: center center;
