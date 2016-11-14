@@ -1,6 +1,6 @@
 ﻿{
-    "app_id" : "com.imaginereaching.cicce",
-    "appname": "CIC-CE",
+    "app_id" : "com.turk.cicce",
+    "appname": "CICCE",
     "versioncode" : "2015",
     "versionname" : "1.0",
     "cache_expiration_time" : 300000,
