@@ -8352,15 +8352,12 @@ a.button {
   background-image:url('../img/pattern.png');
   background-size:500px 500px;
   /* Change this to add a bg image or change color */
-  background-repeat: no-repeat;
-  background-position: center center;
   width: 100%;
   position: absolute;
   top: 0;
   bottom: 0; }
 
 .mm-logo {
-  background-image: url('../img/moodle.png');
   /* Change logo here */
   background-repeat: no-repeat;
   background-position: center center;
