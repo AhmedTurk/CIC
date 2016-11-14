@@ -1,5 +1,9 @@
 ﻿{
+<<<<<<< HEAD
     "app_id" : "com.imaginereaching.cicce",
+=======
+    "app_id" : "com.turk.cicce",
+>>>>>>> origin/master
     "appname": "CICCE",
     "versioncode" : "2015",
     "versionname" : "1.0",
