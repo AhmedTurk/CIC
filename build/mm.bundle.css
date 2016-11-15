@@ -8392,10 +8392,11 @@ em {
   background-color:#332D27;
   background-image:url('../img/pattern.png');
   height:45px;
+
 background-size:500px 500px;
   color: #fff; }
   .bar-content .title {
-
+  margin-top:10px;
     color: #fff; }
   .bar-content .button {
     border-color: transparent;
